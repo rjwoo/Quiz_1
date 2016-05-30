@@ -27,7 +27,7 @@ class Book
   end
 
   def chapters
-    puts "Your book: My Awesome Book has "
+    puts "Your book: My Awesome Book has #{:chapter.length}: "
   end
 
 end
